@@ -4,6 +4,7 @@
 [![Security Advisory](https://img.shields.io/badge/Security%20Advisory-Available-success?style=flat-square)](#)
 
 > **As-salamu alaykum.**
+
 > Independent Security Researcher, Advisor, and Systems Engineer with over a decade of experience delivering enterprise-grade architectures, low-level software solutions, and comprehensive security audits.
 
 A technology-agnostic engineer focused on selecting and adapting to the optimal language, framework, or paradigm required to solve complex architectural, performance, and security challenges.
